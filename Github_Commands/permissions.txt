@@ -1,0 +1,1 @@
+the string representation of read,write,and execute permissions in linux

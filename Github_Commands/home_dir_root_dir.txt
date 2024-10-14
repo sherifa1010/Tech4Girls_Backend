@@ -1,0 +1,2 @@
+root directory is the topmost directory identified by the files
+home directory is the directory where the user work

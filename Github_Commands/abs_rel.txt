@@ -1,0 +1,2 @@
+Absolute path work best when data is not moved which is typical for diskson a computer while Relative task work when you are
+delivering documents and data to another user

@@ -10,5 +10,5 @@ fortune
 
 #!/bin/bash
 #this is to install cmatrix
-sudo apt install cmatrix 
+sudo apt install cmatrix git
 cmatrix

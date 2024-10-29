@@ -1,0 +1,31 @@
+#List is use to store multiple items
+#String is surrounded by one quotation mark or double quotation mark
+#Tuples are use to store multiple items
+#Set are use to store multiple items
+float represent numbers with decimal points
+int represent whole number either positive or negetive
+
+a = "hello,sherry"
+the upper case is use to print words alphabetically.
+example;
+print(a.upper(HELLO,SHERRY))
+
+the lower case is use to print words in a small letters.
+example;
+print(a.lower(hello,sherry))
+
+the replace is use to replace a word.
+example;
+print(a.replace("hello","hi"))
+
+the split identify each word as an item
+example;
+print(a.split())
+
+the join is use to join words toghether.
+example;
+print(a.join())
+
+the find is use to find a particular word in asentence.
+example;
+print(a.find())

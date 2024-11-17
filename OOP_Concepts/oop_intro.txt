@@ -1,0 +1,25 @@
+Object-Oriented Programing is a programing that uses objects to represent data and methodsto
+ manipulate the data.
+it is also bene ficial for lage-scae software development and also gives better organization among 
+developers.
+
+Main principles in OOPS
+1.Encapsulation;this is the combiningof attributes and functions that operate on data into a single unit known as object.
+2.Inheritance;it allows anew class to inherit properties and behaviours from existing class.
+3.Polymorphism;it allows objects of a different classes to be treated as objectsof a common superclass.it also gives
+a singlew interface to represent different underlying datatypes.
+4.Abstractions;it involves hiding complex implementation details necessary features of an object.
+
+Benefits of oops in software development
+1.Maintainability;changes made to one part of a program can often be done without affectingother parts and this 
+also makes it easier to fix a software.
+2.Modularity;it is use to manage and understand complex system easier.
+
+Real world examples
+1.Banking systems;when applying in bank,you  could have classes account,customer and transactions which allows a clear interactions while
+maintaining security through encapsulation.
+2.Game development;this platform might have order and product.inheritance can be used where different types of 
+products like digital products inherit from a base product class. 
+
+
+

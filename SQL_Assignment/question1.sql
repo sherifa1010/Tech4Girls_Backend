@@ -1,10 +1,10 @@
 --creating a database
-CREATE DATABASE Tech4Girls_DB;
+CREATE DATABASE IF NOT EXISTS Tech4Girls_DB;
 
 USE Tech4Girls_DB;
 
 --creating user table
-CREATE TABLE users(
+CREATE TABLE IF NOT EXISTS users(
     id INT AUTO_INCREAMENT PRIMARY KEY,
     username VARCHAR(50),
     email VARCHAR(100),

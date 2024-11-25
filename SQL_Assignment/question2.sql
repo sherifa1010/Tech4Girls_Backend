@@ -2,7 +2,7 @@
 USE Tech4Girls_DB;
 
 --creating post table
-CREATE TABLE Posts(
+CREATE TABLE IF NOT EXISTS Posts(
     id INT AUTO_INCREAMENT PRIMARY KEY,
     user_id INT,
     title VARCHAR(255),
